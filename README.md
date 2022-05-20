@@ -8,4 +8,12 @@
 </p>
 <p align="center"><a href="https://github.com/IceroDev/Projet-Python2022blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/IceroDev/Projet-Python2022?style=for-the-badge"></a></p>
 
+<p>Access</p>
+<ol >
+        <li><a href="https://github.com/IceroDev/GardenClash">Python Code</a></li>
+        <li><a href="https://github.com/IceroDev/GardenClash/tree/website-api">API</a></li>
+        <li><a href="https://github.com/IceroDev/GardenClash/tree/uml">UML</a></li>
+  </ol>
+
+
 <h1 align="center">The deliberation of the project having not yet been made, the code of the application is not yet present on this page to avoid plagiarism. The code will be published after June 25, 2022</h1>
