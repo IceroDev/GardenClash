@@ -18,3 +18,6 @@
 
 <h1>Run the code</h1>
 <code>python3 ./Staffe_Jean.py </code>
+
+<h2>Deliberations</h2>
+This project obtained the mark of 17/20 in the deliberation after oral defense
