@@ -16,4 +16,5 @@
   </ol>
 
 
-<h1 align="center">The deliberation of the project having not yet been made, the code of the application is not yet present on this page to avoid plagiarism. The code will be published after June 25, 2022</h1>
+<h1>Run the code</h1>
+<code>python3 ./Staffe_Jean.py </code>
